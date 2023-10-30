@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/album_icon.png",
+      "sha1": "ca4b77c3a8594d76bb28223566a657753f8058d9"
+    },
+    {
+      "path": "src/assets/arrow_icon.png",
+      "sha1": "fd6aa58f24848fbbca7fcaba68d19cca8fc47f08"
+    },
+    {
+      "path": "src/assets/bookmark_icon.png",
+      "sha1": "218f91dbeda42454f18dc39c1871fe373b7da9fa"
+    },
+    {
+      "path": "src/assets/bookmark_white_icon.png",
+      "sha1": "18ad1025f3551a1142cddb97ab6fd99fdffc7c69"
+    },
+    {
+      "path": "src/assets/discover_icon.png",
+      "sha1": "b5be33543bd286850743ccd76d3538caaed2dd70"
+    },
+    {
+      "path": "src/assets/fonts/SF-Pro-Rounded.ttf",
+      "sha1": "f2060ab5a5d6140c103bf47616f882ae62539cf2"
+    },
+    {
+      "path": "src/assets/home_icon.png",
+      "sha1": "380aa1e6d67c231c8a892fa28fcb47ebfdace214"
+    },
+    {
+      "path": "src/assets/likes_icon.png",
+      "sha1": "0ff09e2da623a254c6fec782f10e9c83efef464f"
+    },
+    {
+      "path": "src/assets/message_icon.png",
+      "sha1": "ce35a398e62c4ebfe6c1131df4900e4b2e7b59f5"
+    },
+    {
+      "path": "src/assets/profile_icon.png",
+      "sha1": "2a161d7130289e4baeeb15199fc87856b63b22f0"
+    },
+    {
+      "path": "src/assets/right_arrow_icon.png",
+      "sha1": "c9d8e9b566a241b117511b8e8c31421271660576"
+    },
+    {
+      "path": "src/assets/search_icon.png",
+      "sha1": "a676a42a390509a59cda4f975fb58659e5bbd7a8"
+    },
+    {
+      "path": "src/assets/stopwatch_light_grey.png",
+      "sha1": "bb7613accc76dd8c189666df2cda94761cd0b0c6"
+    }
+  ]
+}
